@@ -94,6 +94,7 @@ namespace CMCSSummative.Controllers
         public async Task<IActionResult> EditUser(UserAccount model)
         {
             RequireHR();
+
             var u = await _db.Users.FindAsync(model.UserId);
             if (u == null) return NotFound();
 
@@ -101,8 +102,13 @@ namespace CMCSSummative.Controllers
             u.LastName = model.LastName;
             u.Email = model.Email;
             u.HourlyRate = model.HourlyRate;
-            u.Password = model.Password;
             u.Role = model.Role;
+
+            if (!string.IsNullOrWhiteSpace(model.Password))
+            {
+                u.Password = model.Password;
+            }
+
             await _db.SaveChangesAsync();
 
             if (string.Equals(u.Role, "Lecturer", StringComparison.OrdinalIgnoreCase))

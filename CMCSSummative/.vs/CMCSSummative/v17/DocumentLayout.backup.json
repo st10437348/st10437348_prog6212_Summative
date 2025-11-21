@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\claimvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\claimvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,46 @@
               "RelativeToolTip": "CMCSSummative\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-21T12:21:09.364Z",
+              "WhenOpened": "2025-11-21T15:30:06.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimValidationService.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ClaimValidationService.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Services\\ClaimValidationService.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ClaimValidationService.cs",
+              "RelativeToolTip": "CMCSSummative\\Services\\ClaimValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:29:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Approval.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Approval.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Models\\Approval.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Approval.cs",
+              "RelativeToolTip": "CMCSSummative\\Models\\Approval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:29:22.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CMCSSummative\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:29:11.69Z",
               "EditorCaption": ""
             }
           ]
