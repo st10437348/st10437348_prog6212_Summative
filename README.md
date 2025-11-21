@@ -10,6 +10,10 @@ This project is a web-based system built using ASP.NET Core MVC. It enables lect
 
 
 
+https://youtu.be/GPmWTDFGJs8
+
+
+
 ## Setup Instructions
 
 
@@ -253,6 +257,14 @@ Digital TechJoint (n.d.) Implementing AES 256 Encryption in ASP.NET – Step-by-
 
 
 Microsoft Docs. (n.d.) Unit testing C# in .NET using dotnet test and xUnit. Available at: https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-csharp-with-xunit
+
+
+
+Stack Overflow. (2009) How do I connect to a SQL database from C#? Available at: https://stackoverflow.com/questions/1345508/how-do-i-connect-to-a-sql-database-from-c (Accessed: 19 November 2025)
+
+
+
+Stack Overflow. (2016) Adding a specific error message to a View in MVC. Available at: https://stackoverflow.com/questions/37115792/adding-a-specific-error-message-to-a-view-in-mvc (Accessed: 20 November 2025).
 
 
 
