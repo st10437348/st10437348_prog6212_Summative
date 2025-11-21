@@ -28,12 +28,80 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Coordinator/Claims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcQ2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Coordinator/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Coordinator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRpbmF0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/HR/Claims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcQ2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/HR/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/HR/DeleteUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRGVsZXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/HR/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/HR/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/HR/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/HR/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Lecturers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Lecturers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Lecturers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Lecturers/UploadDocument.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJzXFVwbG9hZERvY3VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Manager/Claims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxDbGFpbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Manager/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Manager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Desktop/st10437348_prog6212_Summative/CMCSSummative/CMCSSummative/Views/Shared/Error.cshtml]

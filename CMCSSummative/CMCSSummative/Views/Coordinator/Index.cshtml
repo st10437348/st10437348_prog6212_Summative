@@ -1,0 +1,36 @@
+﻿<div class="container py-5">
+    <div class="text-center mb-5">
+        <h2 class="fw-bold">Coordinator Dashboard</h2>
+        <p class="text-muted">Welcome, <strong>@ViewBag.Username</strong></p>
+        @if (TempData["Info"] != null)
+        {
+            <div class="alert alert-success">@TempData["Info"]</div>
+        }
+        @if (TempData["Error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["Error"]</div>
+        }
+    </div>
+
+    <div class="row justify-content-center g-4">
+        <div class="col-md-3">
+            <a asp-action="Claims" class="btn btn-primary w-100 py-3 shadow-sm d-flex flex-column align-items-center">
+                <i class="fas fa-clipboard-list fa-2x mb-2"></i>
+                View Claims
+            </a>
+        </div>
+
+        <div class="col-md-3">
+            <form asp-controller="Home" asp-action="Logout" method="post" class="w-100">
+                <button type="submit" class="btn btn-secondary w-100 py-3 shadow-sm d-flex flex-column align-items-center">
+                    <i class="fas fa-sign-out-alt fa-2x mb-2"></i>
+                    Logout
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+

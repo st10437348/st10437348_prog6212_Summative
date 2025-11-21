@@ -1,0 +1,50 @@
+﻿@model List<CMCSSummative.Models.UserAccount>
+
+<h2>Users</h2>
+
+@if (TempData["UserInfo"] != null)
+{
+    <div class="alert alert-success">@TempData["UserInfo"]</div>
+}
+
+
+<p>
+    <a asp-action="CreateUser" class="btn btn-success">Create New User</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Role</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Hourly Rate</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Username</td>
+                <td>@u.Role</td>
+                <td>@(u.FirstName + " " + u.LastName)</td>
+                <td>@u.Email</td>
+                <td>@u.HourlyRate.ToString("C")</td>
+                <td>
+                    <a asp-action="EditUser" asp-route-id="@u.UserId" class="btn btn-sm btn-primary">Edit</a>
+
+                    <form asp-action="DeleteUser" asp-route-id="@u.UserId" method="get" style="display:inline-block">
+                        <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Delete user @u.Username ? This will remove related lecturer data (claims, documents, approvals).');">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Back to Dashboard</a>
+

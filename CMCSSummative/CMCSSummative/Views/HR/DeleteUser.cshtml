@@ -1,0 +1,12 @@
+﻿@model CMCSSummative.Models.UserAccount
+
+<h3>Confirm delete</h3>
+
+<p>Are you sure you want to delete user <strong>@Model.Username</strong> (ID: @Model.UserId)?</p>
+<p>This will permanently remove the user and related data (lecturer, claims, documents, approvals).</p>
+
+<form asp-action="DeleteUserConfirmed" method="post">
+    <input type="hidden" name="id" value="@Model.UserId" />
+    <button type="submit" class="btn btn-danger">Yes, delete</button>
+    <a asp-action="Users" class="btn btn-secondary">Cancel</a>
+</form>

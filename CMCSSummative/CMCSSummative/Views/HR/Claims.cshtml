@@ -1,0 +1,125 @@
+﻿@model List<CMCSSummative.Models.Claim>
+
+<h2>Claims</h2>
+
+<table class="table table-striped table-hover table-fixed">
+    <thead class="table-dark">
+        <tr>
+            <th>Claim ID</th>
+            <th>Lecturer Name</th>
+            <th>Lecturer ID</th>
+            <th>Hours</th>
+            <th>Rate</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Submitted</th>
+            <th>Last Decision By</th>
+            <th>Notes</th>
+            <th>Documents</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            var latest = (claim.Approvals != null && claim.Approvals.Any()) ? claim.Approvals.First() : null;
+            <tr>
+                <td>@claim.ClaimId</td>
+                <td>@(string.IsNullOrWhiteSpace(claim.LecturerUsername) ? "—" : claim.LecturerUsername)</td>
+                <td>@claim.LecturerId</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate.ToString("C")</td>
+                <td>@claim.TotalAmount.ToString("C")</td>
+                <td>@claim.Status</td>
+                <td>@claim.SubmittedAt.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    @if (latest != null)
+                    {
+                        <span title="@latest.DecisionDate.ToLocalTime()">
+                            @latest.Decision by @latest.ApprovedBy)
+                        </span>
+                    }
+                    else
+                    {
+                        <span class="text-muted">—</span>
+                    }
+                </td>
+                <td class="col-notes">@claim.Notes</td>
+
+                <td class="col-docs">
+                    @if (claim.Documents != null && claim.Documents.Any())
+                    {
+                        @foreach (var d in claim.Documents)
+                        {
+                            <a class="btn btn-sm btn-outline-primary mb-1"
+                               href="@Url.Action("Download", "Files", new { id = d.DocumentId })"
+                               title="Download file">
+                                Download
+                            </a>
+                        }
+                    }
+                    else
+                    {
+                        <span class="text-muted">None</span>
+                    }
+                </td>
+
+                <td class="action-cell">
+                    <div class="action-grid">
+                        <form asp-action="Edit" method="post">
+                            <input type="hidden" name="id" value="@claim.ClaimId" />
+                            <input type="hidden" name="Decision" value="Approved" />
+                            <input type="hidden" name="Comments" value="Approved via list." />
+                            <button type="submit" class="btn btn-success btn-sm">Approve</button>
+                        </form>
+
+                        <form asp-action="Edit" method="post">
+                            <input type="hidden" name="id" value="@claim.ClaimId" />
+                            <input type="hidden" name="Decision" value="Rejected" />
+                            <input type="hidden" name="Comments" value="Rejected via list." />
+                            <button type="submit" class="btn btn-warning btn-sm">Reject</button>
+                        </form>
+
+                        <a asp-action="Edit" asp-route-id="@claim.ClaimId" class="btn btn-primary btn-sm">Review</a>
+
+                        <form asp-action="Delete" method="post" onsubmit="return confirm('Delete claim #@claim.ClaimId ?');">
+                            <input type="hidden" name="id" value="@claim.ClaimId" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </div>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary mt-3"><i class="fas fa-arrow-left me-2"></i>Back to Dashboard</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

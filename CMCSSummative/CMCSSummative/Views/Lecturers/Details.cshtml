@@ -1,0 +1,75 @@
+﻿@model List<CMCSSummative.Models.Claim>
+
+<h2>My Claims</h2>
+
+@if (TempData["ClaimInfo"] != null)
+{
+    <div class="alert alert-success">@TempData["ClaimInfo"]</div>
+}
+@if (TempData["FileInfo"] != null)
+{
+    <div class="alert alert-success">@TempData["FileInfo"]</div>
+}
+
+<table class="table table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Claim ID</th>
+            <th>Hours Worked</th>
+            <th>Hourly Rate</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>Submitted At</th>
+            <th>Decision By</th>
+            <th>Notes</th>
+            <th>Documents</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimId</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate.ToString("C")</td>
+                <td>@claim.TotalAmount.ToString("C")</td>
+                <td>@claim.Status</td>
+                <td>@claim.SubmittedAt.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    @if (claim.Approvals != null && claim.Approvals.Any())
+                    {
+                        @claim.Approvals.First().ApprovedBy
+                    }
+                    else
+                    {
+                        <span class="text-muted">-</span>
+                    }
+                </td>
+                <td class="text-break" style="max-width: 280px;">@claim.Notes</td>
+                <td>
+                    @if (claim.Documents != null && claim.Documents.Any())
+                    {
+                        @foreach (var d in claim.Documents)
+                        {
+                            <a class="btn btn-sm btn-outline-primary mb-1"
+                               href="@Url.Action("Download", "Files", new { id = d.DocumentId })"
+                               title="Download file">
+                                Download
+                            </a>
+                        }
+                    }
+                    else
+                    {
+                        <span class="text-muted">None</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Back to Dashboard</a>
+
+
+
+

@@ -1,0 +1,67 @@
+﻿@model CMCSSummative.Models.Claim
+
+<h2>Review Claim</h2>
+
+<div class="mb-3">
+    <p><strong>Claim ID:</strong> @Model.ClaimId</p>
+    <p><strong>Lecturer Name:</strong> @(string.IsNullOrWhiteSpace(Model.LecturerUsername) ? "—" : Model.LecturerUsername)</p>
+    <p><strong>Lecturer ID:</strong> @Model.LecturerId</p>
+    <p><strong>Hours Worked:</strong> @Model.HoursWorked</p>
+    <p><strong>Hourly Rate:</strong> @Model.HourlyRate.ToString("C")</p>
+    <p><strong>Total Amount:</strong> @Model.TotalAmount.ToString("C")</p>
+    <p><strong>Status:</strong> @Model.Status</p>
+    <p><strong>Submitted:</strong> @Model.SubmittedAt.ToString("yyyy-MM-dd HH:mm")</p>
+    <p><strong>Notes:</strong> <span class="text-break">@Model.Notes</span></p>
+
+    <p>
+        <strong>Last Decision:</strong>
+        @{
+            var latest = (Model.Approvals != null && Model.Approvals.Any()) ? Model.Approvals.First() : null;
+            if (latest != null)
+            {
+                <span>@latest.Decision by @latest.ApprovedBy (@latest.DecisionDate.ToLocalTime().ToString("yyyy-MM-dd HH:mm"))</span>
+            }
+            else
+            {
+                <span class="text-muted">—</span>
+            }
+        }
+    </p>
+
+    @if (Model.Documents != null && Model.Documents.Any())
+    {
+        <p><strong>Documents:</strong></p>
+        <div class="d-flex flex-wrap gap-2">
+            @foreach (var d in Model.Documents)
+            {
+                <a class="btn btn-sm btn-outline-primary"
+                   href="@Url.Action("Download", "Files", new { id = d.DocumentId })">@d.FileName</a>
+            }
+        </div>
+    }
+</div>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="id" value="@Model.ClaimId" />
+
+    <div class="form-group mb-3">
+        <label>Decision</label>
+        <select name="Decision" class="form-control">
+            <option>Approved</option>
+            <option>Rejected</option>
+        </select>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Comments</label>
+        <textarea name="Comments" class="form-control" placeholder="Optional comments..."></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save Decision</button>
+    <a asp-action="Claims" class="btn btn-secondary ms-2">Back to Claims</a>
+</form>
+
+
+
+
+

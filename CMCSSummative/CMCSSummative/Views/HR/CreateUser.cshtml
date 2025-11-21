@@ -1,0 +1,47 @@
+﻿@model CMCSSummative.Models.UserAccount
+
+<h2>Create User</h2>
+
+@if (TempData["UserInfo"] != null)
+{
+    <div class="alert alert-success">@TempData["UserInfo"]</div>
+}
+
+<form asp-action="CreateUser" method="post">
+    <div class="mb-3">
+        <label asp-for="Username" class="form-label">Username</label>
+        <input asp-for="Username" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label">Password</label>
+        <input asp-for="Password" type="password" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Role" class="form-label">Role</label>
+        <select asp-for="Role" class="form-select">
+            <option>Lecturer</option>
+            <option>Coordinator</option>
+            <option>Manager</option>
+            <option>HR</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label asp-for="FirstName" class="form-label">First Name</label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="LastName" class="form-label">Last Name</label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="HourlyRate" class="form-label">Hourly Rate</label>
+        <input asp-for="HourlyRate" class="form-control" type="number" step="0.01" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Users" class="btn btn-secondary ms-2">Back</a>
+</form>
