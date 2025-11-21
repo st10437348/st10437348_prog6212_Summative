@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\models\\supportingdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\models\\supportingdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserAccount.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\UserAccount.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Models\\UserAccount.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\UserAccount.cs",
-              "RelativeToolTip": "CMCSSummative\\Models\\UserAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\HRController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HRController.cs",
+              "RelativeToolTip": "CMCSSummative\\Controllers\\HRController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:22:21.99Z",
+              "WhenOpened": "2025-11-21T07:26:49.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SupportingDocument.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\SupportingDocument.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Models\\SupportingDocument.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\SupportingDocument.cs",
-              "RelativeToolTip": "CMCSSummative\\Models\\SupportingDocument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Title": "CoordinatorController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\CoordinatorController.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\CoordinatorController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\CoordinatorController.cs",
+              "RelativeToolTip": "CMCSSummative\\Controllers\\CoordinatorController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:22:17.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lecturer.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Lecturer.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Models\\Lecturer.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Lecturer.cs",
-              "RelativeToolTip": "CMCSSummative\\Models\\Lecturer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:22:14.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "CMCSSummative\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:22:07.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Claim.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Claim.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Models\\Claim.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Claim.cs",
-              "RelativeToolTip": "CMCSSummative\\Models\\Claim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:21:39.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Approval.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Approval.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Models\\Approval.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Models\\Approval.cs",
-              "RelativeToolTip": "CMCSSummative\\Models\\Approval.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:21:35.476Z",
+              "WhenOpened": "2025-11-21T07:26:19.412Z",
               "EditorCaption": ""
             }
           ]

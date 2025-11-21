@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMCSSummative")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f011668ca0d1bfd10b827a03f2a29e295f84b7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a977e10c8ba2a0b86237c3a96965078e7f7a4b6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMCSSummative")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMCSSummative")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
