@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using CMCSPart2.Data;
-using CMCSPart2.Services;
+using CMCSSummative.Data;
+using CMCSSummative.Services;
 using Microsoft.EntityFrameworkCore;
 
-namespace CMCSPart2.Controllers
+namespace CMCSSummative.Controllers
 {
     public class FilesController : Controller
     {

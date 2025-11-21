@@ -1,9 +1,9 @@
-﻿using CMCSPart2.Data;
-using CMCSPart2.Models;
+﻿using CMCSSummative.Data;
+using CMCSSummative.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
-namespace CMCSPart2.Services
+namespace CMCSSummative.Services
 {
     public class ClaimValidationService
     {

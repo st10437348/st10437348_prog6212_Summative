@@ -1,8 +1,8 @@
 ﻿using PdfSharpCore.Drawing;
 using PdfSharpCore.Pdf;
-using CMCSPart2.Data;
+using CMCSSummative.Data;
 
-namespace CMCSPart2.Services
+namespace CMCSSummative.Services
 {
     public class PdfReportService
     {

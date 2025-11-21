@@ -1,4 +1,4 @@
-﻿namespace CMCSPart2.Services
+﻿namespace CMCSSummative.Services
 {
     public class PersistenceOptions
     {

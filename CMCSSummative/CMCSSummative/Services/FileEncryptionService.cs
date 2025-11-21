@@ -3,7 +3,7 @@ using Microsoft.Extensions.Options;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace CMCSPart2.Services
+namespace CMCSSummative.Services
 {
     public class FileEncryptionService
     {

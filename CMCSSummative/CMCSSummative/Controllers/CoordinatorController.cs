@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using CMCSPart2.Data;
-using CMCSPart2.Models;
-using CMCSPart2.Services;
+using CMCSSummative.Data;
+using CMCSSummative.Models;
+using CMCSSummative.Services;
 using Microsoft.EntityFrameworkCore;
 
-namespace CMCSPart2.Controllers
+namespace CMCSSummative.Controllers
 {
     public class CoordinatorController : Controller
     {

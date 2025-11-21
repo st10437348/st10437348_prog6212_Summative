@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
-using CMCSPart2.Data;
-using CMCSPart2.Models;
+using CMCSSummative.Data;
+using CMCSSummative.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CMCSPart2.Controllers
+namespace CMCSSummative.Controllers
 {
     public class HomeController : Controller
     {

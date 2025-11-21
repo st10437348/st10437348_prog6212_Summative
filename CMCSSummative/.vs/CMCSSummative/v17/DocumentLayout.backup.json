@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\securityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\securityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\persistenceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\persistenceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\fileencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\fileencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\claimvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\claimvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +27,28 @@
       "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\approvalrulesoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\fileencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\fileencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\persistenceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\persistenceoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\services\\securityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\services\\securityoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|solutionrelative:cmcssummative\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12AD5B9F-81AE-4214-96FB-97FB784A9E02}|CMCSSummative\\CMCSSummative.csproj|c:\\desktop\\st10437348_prog6212_summative\\cmcssummative\\cmcssummative\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,110 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApprovalRulesOptions.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ApprovalRulesOptions.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Services\\ApprovalRulesOptions.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ApprovalRulesOptions.cs",
-              "RelativeToolTip": "CMCSSummative\\Services\\ApprovalRulesOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:37:18.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClaimValidationService.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ClaimValidationService.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Services\\ClaimValidationService.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ClaimValidationService.cs",
-              "RelativeToolTip": "CMCSSummative\\Services\\ClaimValidationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:37:13.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileEncryptionService.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\FileEncryptionService.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Services\\FileEncryptionService.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\FileEncryptionService.cs",
-              "RelativeToolTip": "CMCSSummative\\Services\\FileEncryptionService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:36:57.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PdfReportService.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PdfReportService.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Services\\PdfReportService.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PdfReportService.cs",
-              "RelativeToolTip": "CMCSSummative\\Services\\PdfReportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:36:52.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersistenceOptions.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PersistenceOptions.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Services\\PersistenceOptions.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PersistenceOptions.cs",
-              "RelativeToolTip": "CMCSSummative\\Services\\PersistenceOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:36:51.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "SecurityOptions.cs",
               "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\SecurityOptions.cs",
               "RelativeDocumentMoniker": "CMCSSummative\\Services\\SecurityOptions.cs",
               "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\SecurityOptions.cs",
               "RelativeToolTip": "CMCSSummative\\Services\\SecurityOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:36:48.398Z",
+              "WhenOpened": "2025-11-21T07:50:13.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HRController.cs",
-              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HRController.cs",
-              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\HRController.cs",
-              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HRController.cs",
-              "RelativeToolTip": "CMCSSummative\\Controllers\\HRController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PersistenceOptions.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PersistenceOptions.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Services\\PersistenceOptions.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PersistenceOptions.cs",
+              "RelativeToolTip": "CMCSSummative\\Services\\PersistenceOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:26:49.189Z",
+              "WhenOpened": "2025-11-21T07:50:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfReportService.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PdfReportService.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Services\\PdfReportService.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\PdfReportService.cs",
+              "RelativeToolTip": "CMCSSummative\\Services\\PdfReportService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:50:00.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileEncryptionService.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\FileEncryptionService.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Services\\FileEncryptionService.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\FileEncryptionService.cs",
+              "RelativeToolTip": "CMCSSummative\\Services\\FileEncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:49:53.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimValidationService.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ClaimValidationService.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Services\\ClaimValidationService.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ClaimValidationService.cs",
+              "RelativeToolTip": "CMCSSummative\\Services\\ClaimValidationService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:49:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApprovalRulesOptions.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ApprovalRulesOptions.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Services\\ApprovalRulesOptions.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Services\\ApprovalRulesOptions.cs",
+              "RelativeToolTip": "CMCSSummative\\Services\\ApprovalRulesOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:49:34.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "CMCSSummative\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:48:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "CMCSSummative\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:48:48.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\HRController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HRController.cs",
+              "RelativeToolTip": "CMCSSummative\\Controllers\\HRController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:48:39.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CMCSSummative\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:48:31.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "CMCSSummative\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:48:24.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CoordinatorController.cs",
               "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\CoordinatorController.cs",
               "RelativeDocumentMoniker": "CMCSSummative\\Controllers\\CoordinatorController.cs",
               "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Controllers\\CoordinatorController.cs",
               "RelativeToolTip": "CMCSSummative\\Controllers\\CoordinatorController.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:26:19.412Z"
+              "WhenOpened": "2025-11-21T07:47:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CMCSSummative\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Desktop\\st10437348_prog6212_Summative\\CMCSSummative\\CMCSSummative\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CMCSSummative\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:46:38.021Z",
+              "EditorCaption": ""
             }
           ]
         }
