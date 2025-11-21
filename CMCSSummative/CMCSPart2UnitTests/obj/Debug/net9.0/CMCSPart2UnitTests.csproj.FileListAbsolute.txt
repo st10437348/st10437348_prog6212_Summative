@@ -1,0 +1,6 @@
+C:\Desktop\st10437348_prog6212_Summative\CMCSSummative\CMCSPart2UnitTests\obj\Debug\net9.0\CMCSPart2UnitTests.csproj.AssemblyReference.cache
+C:\Desktop\st10437348_prog6212_Summative\CMCSSummative\CMCSPart2UnitTests\obj\Debug\net9.0\CMCSPart2UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\st10437348_prog6212_Summative\CMCSSummative\CMCSPart2UnitTests\obj\Debug\net9.0\CMCSPart2UnitTests.AssemblyInfoInputs.cache
+C:\Desktop\st10437348_prog6212_Summative\CMCSSummative\CMCSPart2UnitTests\obj\Debug\net9.0\CMCSPart2UnitTests.AssemblyInfo.cs
+C:\Desktop\st10437348_prog6212_Summative\CMCSSummative\CMCSPart2UnitTests\obj\Debug\net9.0\CMCSPart2UnitTests.csproj.CoreCompileInputs.cache
+C:\Desktop\st10437348_prog6212_Summative\CMCSSummative\CMCSPart2UnitTests\obj\Debug\net9.0\CMCSPart2UnitTests.sourcelink.json
